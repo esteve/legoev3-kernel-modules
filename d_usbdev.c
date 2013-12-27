@@ -82,10 +82,6 @@ static    void ModuleExit(void);
 
 #include  "computil.c"                            // The composite framework used as utility file
 #include  <../drivers/usb/gadget/gadget_chips.h>
-#include  <../drivers/usb/gadget/usbstring.c>
-#include  <../drivers/usb/gadget/config.c>
-#include  <../drivers/usb/gadget/epautoconf.c>
-
 
 /*-------------------------------------------------------------------------*/
 
