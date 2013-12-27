@@ -6,7 +6,7 @@ obj-m += d_pwm.o
 obj-m += d_sound.o
 obj-m += d_uart_mod.o
 obj-m += d_ui.o
-#obj-m += d_usbdev.o
+obj-m += d_usbdev.o
 obj-m += d_usbhost.o
 
 SRC := $(shell pwd)
